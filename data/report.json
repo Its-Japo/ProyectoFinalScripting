@@ -1,0 +1,49 @@
+{
+  "hostname": "Debian",
+  "collected_at": "2026-07-05T21:55:42-06:00",
+  "generated_at": "2026-07-05T21:55:44.3884702-06:00",
+  "overall_status": "OK",
+  "metrics": [
+    {
+      "name": "cpu",
+      "label": "CPU Usage",
+      "value": 0.0,
+      "unit": "percent",
+      "status": "OK",
+      "threshold_warning": 75.0,
+      "threshold_critical": 90.0,
+      "message": "CPU Usage: 0percent -> OK"
+    },
+    {
+      "name": "memory",
+      "label": "Memory Usage",
+      "value": 55.7,
+      "unit": "percent",
+      "status": "OK",
+      "threshold_warning": 80.0,
+      "threshold_critical": 90.0,
+      "message": "Memory Usage: 55.7percent -> OK"
+    },
+    {
+      "name": "disk",
+      "label": "Disk Usage (/)",
+      "value": 29.0,
+      "unit": "percent",
+      "status": "OK",
+      "threshold_warning": 80.0,
+      "threshold_critical": 90.0,
+      "message": "Disk Usage (/): 29percent -> OK"
+    }
+  ],
+  "raw": {
+    "cpu_usage": 0.0,
+    "mem_total": 1973.0,
+    "mem_used": 1098.0,
+    "mem_available": 875.0,
+    "mem_used_pct": 55.7,
+    "disk_total": 19.0,
+    "disk_used": 5.0,
+    "disk_available": 13.0,
+    "disk_used_pct": 29.0
+  }
+}

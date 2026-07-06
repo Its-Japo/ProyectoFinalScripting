@@ -1,0 +1,10 @@
+metric,value,unit,timestamp,host
+cpu_usage,0.0,percent,2026-07-05T21:55:42-06:00,Debian
+mem_total,1973,MB,2026-07-05T21:55:42-06:00,Debian
+mem_used,1098,MB,2026-07-05T21:55:42-06:00,Debian
+mem_available,875,MB,2026-07-05T21:55:42-06:00,Debian
+mem_used_pct,55.7,percent,2026-07-05T21:55:42-06:00,Debian
+disk_total,19,GB,2026-07-05T21:55:42-06:00,Debian
+disk_used,5,GB,2026-07-05T21:55:42-06:00,Debian
+disk_available,13,GB,2026-07-05T21:55:42-06:00,Debian
+disk_used_pct,29,percent,2026-07-05T21:55:42-06:00,Debian
